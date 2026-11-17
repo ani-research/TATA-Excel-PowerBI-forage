@@ -108,6 +108,7 @@ The `.pbix` file contains four report pages:
 
   `Question 4`                        Map showing countries, with bubble
                                       size based on the sum of quantity.
+                                      
   -----------------------------------------------------------------------
 
 The report uses the `Online Retail` table and the `Revenue`,
